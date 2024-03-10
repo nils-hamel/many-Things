@@ -18,8 +18,8 @@ Generative models are constrained by the boundaries of the examples submitted to
 
 ### many/Rocks Elements
 
-<p align="center" width="100%">
-    <img width="30%" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg">
+<p align="left" width="80%">
+    <img width="30%" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg"> <br />
     many/Rocks E-2024-03, Nils Hamel, 2024-03-09
 </p>
 
