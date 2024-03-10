@@ -18,9 +18,9 @@ Generative models are constrained by the boundaries of the examples submitted to
 
 ### many/Rocks Elements
 
-<p align="left" style="padding-left: 32px">
-    <img width="30%" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg"> <br />
-    many/Rocks E-2024-03, Nils Hamel, 2024-03-09
+<p align="left">
+    <img height="256" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg"> <br />
+    many/Rocks E-2024-03, Nils Hamel, 2024-03-09 (PDF)
 </p>
 
 ## Contribute
