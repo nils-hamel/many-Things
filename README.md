@@ -20,7 +20,7 @@ Generative models are constrained by the boundaries of the examples submitted to
 
 <p align="center" width="100%">
     <img width="30%" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg">
-    <p>many/Rocks E-2024-03, Nils Hamel, 2024-03-09</p>
+    many/Rocks E-2024-03, Nils Hamel, 2024-03-09
 </p>
 
 ## Contribute
