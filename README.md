@@ -1,6 +1,6 @@
 ## Overview
 
-This repository holds the elements for the _many/Things Initiative_, including published elements.
+This repository holds the elements for _The many/Things Initiative_, including published elements.
 
 ## The many/Things Initiative
 
@@ -19,8 +19,8 @@ Generative models are constrained by the boundaries of the examples submitted to
 ### many/Rocks Elements
 
 <p align="left" width="100%">
-    <img width="80%" src="promote/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-09/github.jpeg"> <br />
-    many/Rocks E-2024-03, Nils Hamel, 2024-03-09 (PDF)
+    <img width="80%" src="bookshelf/many-Rocks/E-2024-03/manyRocks-E-2024-03-nils-hamel-2024-03-10/github.jpeg"> <br />
+    <b>many/Rocks E-2024-03, Nils Hamel, 2024-03-10 [Download the PDF - Hosted on Proton Drive](https://drive.proton.me/urls/4CQJY9MWBM#wa5AfIJz37go)</b>
 </p>
 
 ## Contribute
@@ -33,7 +33,7 @@ Given the complexity surrounding the issue of rights attribution in the field of
 
 ## Attribution
 
-**many/Things Initiative**
+**many/Things Initiative** <br />
 Copyright (c) 2023-2024 Nils Hamel
 
 This work, _The many/Things Initiative_ and its subsequent content, is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
