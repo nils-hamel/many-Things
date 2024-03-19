@@ -4,3 +4,5 @@ script
 temp
 create
 fetch-prompts
+fetch-model-list
+books
