@@ -23,11 +23,19 @@ Generative models are constrained by the boundaries of the examples submitted to
     <b>many/Rocks E-2024-03, Nils Hamel, 2024-03-13 - <a href="https://drive.proton.me/urls/X72B350K4G#72bVr1E8MkH1">Download the PDF - Hosted on Proton Drive</a></b>
 </p>
 
-### many/Raised
+
+### many/Insects Elements
 
 <p align="left" width="100%">
-    <img width="80%" src="bookshelf/many-Raised/E-2024-03/manyRaised-E-2024-03-nils-hamel-2024-03-15/github.jpeg"> <br />
-    <b>many/Raised E-2024-03, Nils Hamel, 2024-03-15 - <a href="https://drive.proton.me/urls/T8WJN03F2C#RrUMtLqaEP3x">Download the PDF - Hosted on Proton Drive</a></b>
+    <img width="80%" src="bookshelf/many-Insects/E2024-03/manyInsects-E2024-03-nils-hamel-2024-03-22/github.jpeg"> <br />
+    <b>many/Insects E-2024-03, Nils Hamel, 2024-03-22 - <a href="https://drive.proton.me/urls/1KGZZ5CMC8#RvtKoEsUpQVk">Download the PDF - Hosted on Proton Drive</a></b>
+</p>
+
+### many/Raised Elements
+
+<p align="left" width="100%">
+    <img width="80%" src="bookshelf/many-Raised/E-2024-03/manyRaised-E-2024-03-nils-hamel-2024-03-22/github.jpeg"> <br />
+    <b>many/Raised E-2024-03, Nils Hamel, 2024-03-22 - <a href="https://drive.proton.me/urls/NN4T0R1FNG#QHrSFinGwEuL">Download the PDF - Hosted on Proton Drive</a></b>
 </p>
 
 ## Contribute
